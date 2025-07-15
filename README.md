@@ -1,0 +1,2 @@
+# astarte_data_access_generators
+astarte_data_access_generators
